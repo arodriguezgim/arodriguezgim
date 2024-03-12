@@ -20,7 +20,7 @@
 - :trophy: Máster Oficial de **Desarrollo de Apps para Móviles** en la [UOC](https://www.uoc.edu/es)
 - :technologist: **Actualmente trabajando** como **Profesor de Informática** en los ciclos de **SMR: Sistemas Microinformáticos y Redes** y **DAM: Desarrollo de Aplicaciones Multimedia** en el  [IES Segundo de Chomón](https://www.iesch.org)
 - :boom: Puedes visitar la web del centro y mirar lo que puedes aprender aquí [IES Segundo de Chomón](https://www.iesch.org) 
-- :email: Contacta conmigo por email [![Envíame un Email](https://img.shields.io/static/v1?label=email&amp;messageAlberto&amp;color=EA4335&amp;style=flat-square)](mailto:arodriguezg@iesch.org)
+
 
 <br>
 
