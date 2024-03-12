@@ -16,8 +16,8 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: I am a `Junior` at [School of Cyber Science and Technology](https://cst.buaa.edu.cn/) in [BUAA](https://ev.buaa.edu.cn/)
-- :trophy: `2022 MCM/ICM` Finalist **&** 4x `Scholarship`
+- :school: Ingeniero Informático en la [Universidad CEU Cardenal Herrera](https://www.uchceu.es/)
+- :trophy: Máster Oficial de Desarrollo de Apps para Móviles en [UOC](https://www.uoc.edu/es)
 - :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
 - :boom: Puedes visitar la web del centro y mirar lo que puedes aprender aquí [IES Segundo de Chomón](https://www.iesch.org) for some frontend knowledge
 - :email: Feel free to **reach me out** [![Envíamo un Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:arodriguezg@iesch.org)
