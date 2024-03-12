@@ -17,11 +17,10 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - :school: Ingeniero Informático en la [Universidad CEU Cardenal Herrera](https://www.uchceu.es/)
-- :trophy: Máster Oficial de Desarrollo de Apps para Móviles en [UOC](https://www.uoc.edu/es)
-- :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
+- :trophy: Máster Oficial de Desarrollo de Apps para Móviles en la [UOC](https://www.uoc.edu/es)
+- :technologist: **Actualmente trabajando** como `Profesor de Informática` **en los ciclos de** `SMR` y `DAM` en el  [IES Segundo de Chomón](https://www.iesch.org)
 - :boom: Puedes visitar la web del centro y mirar lo que puedes aprender aquí [IES Segundo de Chomón](https://www.iesch.org) for some frontend knowledge
 - :email: Feel free to **reach me out** [![Envíamo un Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:arodriguezg@iesch.org)
-- :nerd_face: Always believe `"You are what you loved"`
 
 <br>
 
